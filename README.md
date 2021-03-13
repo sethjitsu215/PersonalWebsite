@@ -10,7 +10,11 @@
 
 `hugo new site PersonalWebsite`
 
-5. Move the folders and other content from "PersonalWebsiteOld" to "PersonalWebsite" folder.
+5. In file explorer, move the folders and other content from "PersonalWebsiteOld" to "PersonalWebsite" folder.
+
+6. You also need to move the '.git' folder in "PersonalWebsiteOld." To do that, type
+
+`mv PersonalWebsiteOld/.git PersonalWebsite/.git `
 
 6. To view website locally on computer, type in terminal:
 
