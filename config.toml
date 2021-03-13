@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "http://examplesite.org"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Enjoying the Times"
 theme = "airspace-hugo"
 themesDir = "../.."
 # post pagination
@@ -192,7 +192,7 @@ hasChildren = true
   parent = "Pages"
   name = "Service"
   URL = "service"
-  
+
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
@@ -281,7 +281,7 @@ hasChildren = true
   parent = "Pages"
   name = "Un service"
   URL = "service"
-  
+
 [[Languages.fr.menu.main]]
 name = "Contact"
 URL = "contact"
